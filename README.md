@@ -1,4 +1,4 @@
-# stock-analysis
+# VBA Stock Analysis
 
 ## Overview & Purpose of Project
 The purpose of this project is to write and refactor code in VBA to loop through all the Stock Data that was gathered by Steve and his family. 
