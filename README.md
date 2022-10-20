@@ -6,6 +6,7 @@ The refactored code should take less time to run in Excel than the original code
 
 
 [VBA Stocks Challenge Excel File](VBA_Challenge.xlsm)
+(the VBA Macros for this challenge is under Module 3)
 
 
 ## Results
