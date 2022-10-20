@@ -29,5 +29,5 @@ Refactoring code can also lead to errors, especially if is a large code that req
 
 - How do these pros and cons apply to refactoring the original VBA script?
 
-The original VBA script was short enough that refacotring it made it easier to comprehend and understand. It also allowed it to run quicker, as it only took 1/3 of the time the orignal did. The refactored code used fewer steps, less memory and can be easier read by others. 
+The original VBA script was short enough that refacotoring it made it easier to comprehend and understand. It also allowed it to run quicker, as it only took 1/3 of the time the orignal did. The refactored code used fewer steps, less memory and can be easier read by others. 
 
